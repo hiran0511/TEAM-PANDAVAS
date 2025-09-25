@@ -3,5 +3,7 @@ This project aims to predict rainfall patterns for Indian cities using historica
 
 <img width="1897" height="1004" alt="image" src="https://github.com/user-attachments/assets/bd0abc10-13d4-4944-891a-4b58a8931339" />
 
+<img width="1481" height="829" alt="image" src="https://github.com/user-attachments/assets/2d3f255e-02f2-4d13-af3a-bf762ffc735d" />
+
 
 
