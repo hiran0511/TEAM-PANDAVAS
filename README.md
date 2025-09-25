@@ -27,13 +27,13 @@ dew point (°C)
 
 ## 🧠 Models Implemented
 
-ARIMA (AutoRegressive Integrated Moving Average)
+1. ARIMA (AutoRegressive Integrated Moving Average)
 
 Classical time-series forecasting model.
 
 
 
-LSTM (Long Short-Term Memory)
+2. LSTM (Long Short-Term Memory)
 
 Deep learning model for sequential data.
 
